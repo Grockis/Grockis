@@ -1,5 +1,5 @@
 ## Sobre mí  
-Soy **Hacker Ético** y **Desarrollador** con amplia experiencia en seguridad informática, desarrollo de sistemas y aplicaciones empresariales.  
+Soy **Hacker Ético** y **Desarrollador** con amplia experiencia en informática, desarrollo de sistemas y aplicaciones empresariales.  
 Me especializo en la creación de **sistemas de gestión empresarial** y a la **auditoría de ciberseguridad**.
 
 > *“La seguridad no es un producto, es un proceso.”*  
