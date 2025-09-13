@@ -1,35 +1,47 @@
-## Sobre mí  
-Soy **Hacker Ético** y **Desarrollador** con amplia experiencia en informática, desarrollo de sistemas y aplicaciones empresariales.  
-Me especializo en la creación de **sistemas de gestión empresarial** y a la **auditoría de ciberseguridad**.
+## About Me  
+I am an **Ethical Hacker** and **Developer** with extensive experience in IT, business systems, and enterprise applications.  
+I specialize in building **business management systems** and conducting **cybersecurity audits to detect vulnerabilities**.  
 
-> *“La seguridad no es un producto, es un proceso.”*  
+> *“Security is not a product, it’s a process.”*  
 
-## Experiencia  
-- +4 años en desarrollo de **sistemas empresariales** y **aplicaciones a medida**.  
-- Senior en **Lua** y sólido en **Python, C, C++**.  
-- Experiencia en **backend web**, **bases de datos** y **seguridad informática**.  
-- Proyectos de **auditoría y pruebas de penetración** personalizados.  
+---
 
-## Actualmente  
-- Aprendiendo y perfeccionando técnicas avanzadas en **seguridad ofensiva y defensiva**.  
-- Desarrollando frameworks propios para **sistemas empresariales**.  
-- Contribuyendo a proyectos de **software open-source** relacionados con seguridad.  
+## Experience  
+- 4+ years in **business systems** and **custom applications** development.  
+- Senior in **Lua** and proficient in **Python, C, C++**.  
+- Strong background in **backend development**, **databases**, and **cybersecurity practices**.  
+- Delivered **customized security audits and penetration testing projects**.  
 
-## Lenguajes y Tecnologías  
+---
+
+## Currently  
+- Expanding advanced skills in **offensive and defensive security**.  
+- Developing proprietary frameworks for **enterprise systems**.  
+- Contributing to **open-source projects** related to cybersecurity and automation.  
+
+---
+
+## Languages & Technologies  
 - **Senior**: Lua  
-- **Avanzado**: Python, C, C++  
+- **Advanced**: Python, C, C++  
 - **Web**: JavaScript, HTML5, CSS3, Node.js  
-- **Bases de datos**: MySQL, PostgreSQL  
-- **Otros**: Git, Linux, Shell Scripting  
+- **Databases**: MySQL, PostgreSQL  
+- **Other**: Git, Linux, Shell Scripting  
 
-## Proyectos Destacados  
--
+---
 
-## Estadísticas de GitHub  
+## Featured Projects  
+- 
+
+---
+
+## GitHub Stats  
 ![Grockis GitHub stats](https://github-readme-stats.vercel.app/api?username=grockis&show_icons=false&theme=default&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grockis&layout=compact&theme=default&hide_border=true)  
 
-## Contacto  
+---
+
+## Contact  
 - X: [x.com/grockis](#)  
 - Email: grockis@gmail.com  
-- GitHub: [github.com/grockis](https://github.com/grockis)  
+- GitHub: [github.com/grockis](https://github.com/grockis)
